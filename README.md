@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romina Vilatta Montenegro</h1>
 <h3 align="center">I am Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Hooks React, Inglés**
-
 - 💬 Ask me about **html, css, javascript y reactjs**
 
 - 📫 How to reach me **vilattaromina@gmail.com**
