@@ -1,9 +1,7 @@
 # 👋🏻 &nbsp;&nbsp;Hi there, I am Romi
 <p align="center">
-<img src="https://github.com/alexcamachogz/random_images/blob/main/banner.png" alt="banner">
+<img src="https://github.com/VilattaRomina/VilattaRomina/blob/main/banner.png" alt="banner">
  </p>
-
-<!-- https://github.com/alexcamachogz/alexcamachogz/blob/a2baf4c4607a5e27e6d01b4b720d1088e85bac2a/alex-banner.png?raw=true -->
 
 I am a Professional Developer and Frontend Specialist with experience in web application development. My primary focus is on continuous improvement of my skills and knowledge.
 
