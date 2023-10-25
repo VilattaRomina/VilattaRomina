@@ -1,4 +1,4 @@
-# 👋🏻 &nbsp;&nbsp;Hi there, I am Alex
+# 👋🏻 &nbsp;&nbsp;Hi there, I am Romi
 <p align="center">
 <img src="https://github.com/alexcamachogz/random_images/blob/main/banner.png" alt="banner">
  </p>
