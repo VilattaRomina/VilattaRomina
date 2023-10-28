@@ -7,7 +7,7 @@ I am a Software Developer and Frontend Specialist with experience in web applica
 
 Throughout my career, I have worked with technologies such as React, Next.js, Java, and MySQL on various development projects. My toolkit includes GitLab and GitHub for version control, as well as agile methodologies like Scrum for project organization.
 
-Valuing collaboration and ongoing learning, I am currently expanding my skills by learning and developing applications with Angular and TypeScript. I am committed to personal and professional growth, and I am always seeking new ways to contribute to the world of software development.
+I am currently expanding my skills by learning and developing applications with Angular and TypeScript. I am committed to personal and professional growth, and I am always seeking new ways to contribute to the world of software development.
 
 <!-- 👩🏻‍💻 &nbsp;&nbsp;I'm currently working as an Academic Coach at <a href="https://www.platzi.com">@Platzi</a>. -->
 
