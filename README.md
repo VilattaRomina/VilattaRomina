@@ -3,7 +3,7 @@
 <img src="https://github.com/VilattaRomina/VilattaRomina/blob/main/banner.png" alt="banner">
  </p>
 
-I am a Professional Developer and Frontend Specialist with experience in web application development. My primary focus is on continuous improvement of my skills and knowledge.
+I am a Software Developer and Frontend Specialist with experience in web application development. My primary focus is on continuous improvement of my skills and knowledge.
 
 Throughout my career, I have worked with technologies such as React, Next.js, Java, and MySQL on various development projects. My toolkit includes GitLab and GitHub for version control, as well as agile methodologies like Scrum for project organization.
 
