@@ -3,7 +3,7 @@
 <img src="https://github.com/VilattaRomina/VilattaRomina/blob/main/banner.png" alt="banner">
  </p>
 
-👋 Hi there! I'm Romi, a Software Developer and Frontend Specialist with a focus on web application development. My primary goal is continuous improvement of my skills and knowledge.
+ I'm a Software Developer and Frontend Specialist with a focus on web application development. My primary goal is continuous improvement of my skills and knowledge.
 
 Throughout my career, I've worked with a wide range of technologies including React, Next.js, Angular, TypeScript, Java, MySQL, HTML, CSS, and JavaScript. I also utilize tools like GitLab and GitHub for version control, and agile methodologies such as Scrum for project organization.
 
