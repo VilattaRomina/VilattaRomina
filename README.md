@@ -1,6 +1,6 @@
 # 👋🏻 &nbsp;&nbsp;Hi there, I am Romi
 <p align="center">
-<img src="https://github.com/VilattaRomina/VilattaRomina/blob/main/banner.png" alt="banner">
+<img src="https://github.com/VilattaRomina/VilattaRomina/blob/main/cover.png" alt="banner">
  </p>
 
  I'm a Software Developer and Frontend Specialist with a focus on web application development. My primary goal is continuous improvement of my skills and knowledge.
