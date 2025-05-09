@@ -33,7 +33,6 @@ Thanks for stopping by my profile!
 
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
-- Explore my website <a href="https://rominavilattamontenegro.netlify.app/">Portfolio</a>
 - And know a little more about my work in <a href="https://www.linkedin.com/in/rominavilattamontenegro/">Linkedin</a>
 
 
